@@ -1,0 +1,2 @@
+# Capybara-bot
+IM COOL
